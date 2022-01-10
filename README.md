@@ -18,7 +18,7 @@ npm start
 👤 **Author1**
 
 - GitHub: [@ahmedta](https://github.com/ahmedta)
-- Twitter: [@\_ahmedta](https://twitter.com/_ahmedta_)
+- Twitter: [@\_ahmedta](https://twitter.com/_ahmedta)
 
 ## 🤝 Contributing
 
